@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Gabriel and I'm a Cybersecurity analist and Developer, from Brazil.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I'm 21 years old, programming since 2021. I'm coursing Software Engineering at Inteli.<br>I'm currently learning web hacking.<br>Goals: Being a reference on the cybersecurity market.<br>Fun fact: I am a guitarrist and a tabletop RPG player.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Known techonologies</h2>
 
 ###
 
