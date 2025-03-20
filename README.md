@@ -11,6 +11,7 @@
 ###
 
 <p align="left">I'm 21 years old, programming since 2021. I'm coursing Software Engineering at Inteli.<br>I'm currently learning web hacking.<br>Goals: Being a reference on the cybersecurity market.<br>Fun fact: I am a guitarrist and a tabletop RPG player.</p>
+<p>My LinkedIn profile: <a href="https://www.linkedin.com/in/gabriel--nascimento/">Gabriel Nascimento</a></p>
 
 ###
 
