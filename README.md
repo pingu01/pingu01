@@ -15,6 +15,14 @@
 
 ###
 
+<h2 align="left">Main Habilities</h2>
+
+- Network and Cybersecurity: <a href="https://github.com/pingu01/echomap">EchoMap</a>
+- Cloud and Infraestructure: <a href="https://github.com/2023M5T3-Inteli/2023-1a-t03-grupo5">Lakitu</a> and <a href="https://github.com/pingu01/terraform-tutorial">Terraform tutorial</a>
+- Data analysis: <a href="https://github.com/pingu01/injestao-de-dados">Injestão e tratamento de dados com MiniIO e Clickhouse </a>
+
+###
+
 <h2 align="left">Known techonologies</h2>
 
 ###
